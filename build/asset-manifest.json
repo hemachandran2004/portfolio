@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/hemachandran2004/portfolio/static/css/main.f2c1b6a7.css",
+    "main.js": "/hemachandran2004/portfolio/static/js/main.3c524baf.js",
+    "static/js/453.ace21015.chunk.js": "/hemachandran2004/portfolio/static/js/453.ace21015.chunk.js",
+    "static/media/color-sharp.png": "/hemachandran2004/portfolio/static/media/color-sharp.bea361cfef80fefc2d1e.png",
+    "static/media/color-sharp2.png": "/hemachandran2004/portfolio/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
+    "static/media/karo-intern.png": "/hemachandran2004/portfolio/static/media/karo-intern.66be64145cbc3a072793.png",
+    "static/media/banner-bg.png": "/hemachandran2004/portfolio/static/media/banner-bg.cc1273af450504afe755.png",
+    "static/media/h4u.png": "/hemachandran2004/portfolio/static/media/h4u.f435a7cda716c3ffc50c.png",
+    "static/media/sjce.png": "/hemachandran2004/portfolio/static/media/sjce.6fcd51bcb59b3eb984a3.png",
+    "static/media/home-main.svg": "/hemachandran2004/portfolio/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
+    "static/media/about.png": "/hemachandran2004/portfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/phistrap.png": "/hemachandran2004/portfolio/static/media/phistrap.a89244fb4fd02a06649c.png",
+    "static/media/CentraNo2-Bold.ttf": "/hemachandran2004/portfolio/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
+    "static/media/CentraNo2-Medium.ttf": "/hemachandran2004/portfolio/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
+    "static/media/CentraNo2-Book.ttf": "/hemachandran2004/portfolio/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
+    "static/media/footer-bg.png": "/hemachandran2004/portfolio/static/media/footer-bg.7bd67c0f73571d0acc02.png",
+    "static/media/arlm.jpg": "/hemachandran2004/portfolio/static/media/arlm.c4de78a56711381e5c8f.jpg",
+    "static/media/logo.png": "/hemachandran2004/portfolio/static/media/logo.4ff2bdb38d888ff90823.png",
+    "static/media/homies.jpg": "/hemachandran2004/portfolio/static/media/homies.c697efb6be176521265b.jpg",
+    "static/media/she-wallet.jpg": "/hemachandran2004/portfolio/static/media/she-wallet.909aa10a0dd680b0dc7b.jpg",
+    "static/media/train.jpg": "/hemachandran2004/portfolio/static/media/train.ddeb4c5d3aec9a352d0d.jpg",
+    "static/media/it.png": "/hemachandran2004/portfolio/static/media/it.d5839950ce4bb5a09697.png",
+    "static/media/mims.jpeg": "/hemachandran2004/portfolio/static/media/mims.ea158c5d12eb9ed252ed.jpeg",
+    "static/media/revicons.eot": "/hemachandran2004/portfolio/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/hemachandran2004/portfolio/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/hemachandran2004/portfolio/static/media/revicons.e8746a624ed098489406.woff",
+    "static/media/nav-icon3.svg": "/hemachandran2004/portfolio/static/media/nav-icon3.477af29f0deda74a96d386d628e5d113.svg",
+    "index.html": "/hemachandran2004/portfolio/index.html",
+    "static/media/nav-icon2.svg": "/hemachandran2004/portfolio/static/media/nav-icon2.501726fb1eeb4651c570a40da27f7e5a.svg",
+    "static/media/nav-icon1.svg": "/hemachandran2004/portfolio/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
+    "main.f2c1b6a7.css.map": "/hemachandran2004/portfolio/static/css/main.f2c1b6a7.css.map",
+    "main.3c524baf.js.map": "/hemachandran2004/portfolio/static/js/main.3c524baf.js.map",
+    "453.ace21015.chunk.js.map": "/hemachandran2004/portfolio/static/js/453.ace21015.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f2c1b6a7.css",
+    "static/js/main.3c524baf.js"
+  ]
+}
